@@ -13,5 +13,7 @@ _Novus Theme_,
 _Omni Theme_,
 _XenDark Theme_,
 _XenForo Resource Manager_,
-_XenForo Media Gallery_.
+_XenForo Media Gallery_,
+_XenCarta Wiki_,
+_XenPorta Portal_
 
