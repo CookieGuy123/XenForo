@@ -1,9 +1,9 @@
 # XenForo
-This is XenForo 2.2.4
+Updated for XenForo 2.2.5
 It is the full version. There will be Addons and Themes in the release.
 
 **Things included in the pack:**
-_XenForo 2.2.4_,
+_XenForo 2.2.5_,
 _UIX Addon (for themes)_,
 _Prisma Theme_,
 _Nova Theme_,
