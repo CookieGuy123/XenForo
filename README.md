@@ -15,5 +15,14 @@ _XenDark Theme_,
 _XenForo Resource Manager_,
 _XenForo Media Gallery_,
 _XenCarta Wiki_,
-_XenPorta Portal_
+_XenPorta Portal_,
+_Avatar Gallery_
+_Siropu's Custom 404 page_
+_Siroupu's Chat 2_
+_Andrew's Moderator Panel_
+_Ultimate XF Theme - Pie_
+_Simplicity Lite_
+_MX dark_
+_XENTR Reputation System_
+_AwesomeForo's Fake Online Plugin_
 
