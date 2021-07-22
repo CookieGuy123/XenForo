@@ -29,10 +29,10 @@ _AwesomeForo's Fake Online Plugin_
 
 Added:
 
-XenForo 2.2.6
-iO 2.2.6
-iO Dark Mode 2.2.6
-[BassMan] Welcome Notice
-[TR] Post Reply
+XenForo 2.2.6,
+iO 2.2.6,
+iO Dark Mode 2.2.6,
+[BassMan] Welcome Notice,
+[TR] Post Reply,
 Another version of XenPorta
 
