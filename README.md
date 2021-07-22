@@ -1,5 +1,5 @@
 # XenForo
-Updated for XenForo 2.2.5
+Updated for XenForo **2.2.6**
 It is the full version. There will be Addons and Themes in the release.
 
 **Things included in the pack:**
@@ -25,4 +25,14 @@ _Simplicity Lite_
 _MX dark_
 _XENTR Reputation System_
 _AwesomeForo's Fake Online Plugin_
+
+
+Added:
+
+XenForo 2.2.6
+iO 2.2.6
+iO Dark Mode 2.2.6
+[BassMan] Welcome Notice
+[TR] Post Reply
+Another version of XenPorta
 
